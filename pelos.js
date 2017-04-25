@@ -1,0 +1,3 @@
+function nigga(){
+	alert('yo');
+}
